@@ -1,1 +1,1 @@
-{"default":{"layers":{"if6w879e1mhr20":{"options":{"type":"simple","option":{"size":"1.5","fillStyle":"rgba(239, 168, 0, 0.8)","if6w879e1mhr20":"确定"},"layerName":"if6w879e1mhr20"},"data":"data/if6w879e1mhr20","sha":"8a7ba478c7a6cb7b48fc31bab495c0d8a35a9051"}}}}
+{"default":{"layers":{"if6w879e1mhr20":{"options":{"type":"density","option":{"size":"30","unit":"px","type":"honeycomb","if6w879e1mhr20":"确定"},"layerName":"if6w879e1mhr20"},"data":"data/if6w879e1mhr20","sha":"8a7ba478c7a6cb7b48fc31bab495c0d8a35a9051"}}}}
